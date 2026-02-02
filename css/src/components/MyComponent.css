@@ -1,0 +1,25 @@
+p{
+    color: green;
+    background-color: black;
+}
+
+.my-com-paragraph{
+    color: #000;
+    background-color: gold;
+}
+
+h1{
+    color: red;
+}
+
+.red-title{
+        background-color: #000;
+        color: red;
+        padding: 15;
+        border: 15px solid red;
+}
+
+.title{
+    background-color: black;
+    color: white ;
+}
